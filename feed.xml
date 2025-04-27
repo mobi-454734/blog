@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>黄油漫谈</title>
+    <link href="https://mobi-454734/blog/feed.xml" rel="self" />
+    <link href="https://mobi-454734/blog" />
+    <updated>2025-04-27T23:08:46+08:00</updated>
+    <author>
+        <name>mobius</name>
+    </author>
+    <id>https://mobi-454734/blog</id>
+
+    <entry>
+        <title>测试文章</title>
+        <author>
+            <name>mobius</name>
+        </author>
+        <link href="https://mobi-454734/blog/ce-shi-wen-zhang.html"/>
+        <id>https://mobi-454734/blog/ce-shi-wen-zhang.html</id>
+
+        <updated>2025-04-27T23:08:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是一篇测试文章
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    这是一篇测试文章
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
