@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>黄油漫谈</title>
-    <link href="https://blog/feed.xml" rel="self" />
-    <link href="https://blog" />
+    <link href="https://blog.io/feed.xml" rel="self" />
+    <link href="https://blog.io" />
     <updated>2025-04-27T23:08:46+08:00</updated>
     <author>
         <name>mobius</name>
     </author>
-    <id>https://blog</id>
+    <id>https://blog.io</id>
 
     <entry>
         <title>测试文章</title>
         <author>
             <name>mobius</name>
         </author>
-        <link href="https://blog/ce-shi-wen-zhang.html"/>
-        <id>https://blog/ce-shi-wen-zhang.html</id>
+        <link href="https://blog.io/ce-shi-wen-zhang.html"/>
+        <id>https://blog.io/ce-shi-wen-zhang.html</id>
 
         <updated>2025-04-27T23:08:46+08:00</updated>
             <summary>
