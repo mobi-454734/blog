@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "黄油漫谈",
     "description": "",
-    "home_page_url": "https://mobi-454734/blog",
-    "feed_url": "https://mobi-454734/blog/feed.json",
+    "home_page_url": "https://blog",
+    "feed_url": "https://blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "mobius"
     },
     "items": [
         {
-            "id": "https://mobi-454734/blog/ce-shi-wen-zhang.html",
-            "url": "https://mobi-454734/blog/ce-shi-wen-zhang.html",
+            "id": "https://blog/ce-shi-wen-zhang.html",
+            "url": "https://blog/ce-shi-wen-zhang.html",
             "title": "测试文章",
             "summary": "这是一篇测试文章",
             "content_html": "\n  <p>\n    这是一篇测试文章\n  </p>",
